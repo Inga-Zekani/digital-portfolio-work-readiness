@@ -10,7 +10,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Completed the Career Development module and quiz
 - Reflected on long-term career goals and values
 - Learned how to set SMART goals
-![Career Development](./Career%20Development.png)
+![Career Development Screenshot](./Career%20Development%201.png)
 
 ### Reflection (STAR)
 **S:** I needed to figure out where I see myself in the future  
