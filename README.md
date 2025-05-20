@@ -54,7 +54,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 ### Evidence
 - I designed my CV using **Canva**, a platform that allowed me to highlight my creative and professional strengths  
 - My CV includes education, experience, skills, and personal highlights  
-- 📄 [Click here to view my CV](./Inga_CV.pdf)
+- 📄 [Click here to view my CV](./221043756%20CV.pdf)
 
 ### Reflection (STAR)
 **S:** I needed a CV that looked professional but still reflected my creative personality  
