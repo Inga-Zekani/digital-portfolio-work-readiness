@@ -50,6 +50,8 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 **A:** Completed the personality assessment and analyzed my preferences  
 **R:** I’m now focused on roles that allow me to create and build, rather than ones that are research-heavy or theory-driven
 
+![Personality Assessment](./Personality%20Assessment.png)
+
 ---
 
 ## <span style="color:pink">4. Create a CV</span>
