@@ -10,14 +10,13 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Completed the Career Development module and quiz
 - Reflected on long-term career goals and values
 - Learned how to set SMART goals
+![Career Development](./Career%20Development.png)
 
 ### Reflection (STAR)
 **S:** I needed to figure out where I see myself in the future  
 **T:** Set a clear, actionable plan for my career  
 **A:** I explored my strengths, clarified my goals, and set SMART targets  
 **R:** I now have a career development plan that aligns with my personality and values
-
-![Career Development](./Career%20Development.png)
 
 ---
 
@@ -28,12 +27,13 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - Top interests: **Artistic**, **Realistic**
 - Identified transferable and adaptive skills
 
+![Skills and Interests](./Skills%20and%20Interests.png)
+
 ### Reflection (STAR)
 **S:** I wasn’t always sure what kind of work I enjoyed  
 **T:** Discover my natural skills and interests  
 **A:** Took the quiz and evaluated past achievements and tasks I enjoy  
 **R:** I realized I thrive in creative and hands-on environments, and I’m more confident when choosing roles that match those strengths
-![Skills and Interests](./Skills%20and%20Interests.png)
 
 ---
 
@@ -44,13 +44,13 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 - I prefer expressive, creative work and hands-on, practical tasks
 - I do not enjoy investigative or overly theoretical work
 
+![Personality Assessment](./Personality%20Assessment.png)
+
 ### Reflection (STAR)
 **S:** I wanted to better understand what work environments suit me  
 **T:** Match my personality to careers that fit  
 **A:** Completed the personality assessment and analyzed my preferences  
 **R:** I’m now focused on roles that allow me to create and build, rather than ones that are research-heavy or theory-driven
-
-![Personality Assessment](./Personality%20Assessment.png)
 
 ---
 
@@ -74,13 +74,14 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 ### Evidence
 - I submitted my CV through the official platform (Blackboard) as required
 
+![CV Submission](./CV%20submission.png)
+
 ### Reflection (STAR)
 **S:** I needed to ensure my CV met industry standards  
 **T:** Submit my CV on time for review  
 **A:** Followed submission instructions and made small improvements based on feedback  
 **R:** My CV is now ready for real-world job applications
 
-![CV Submission](./CV%20submission.png)
 
 ---
 
