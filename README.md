@@ -17,6 +17,8 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 **A:** I explored my strengths, clarified my goals, and set SMART targets  
 **R:** I now have a career development plan that aligns with my personality and values
 
+![Career Development](./Career%20Development.png)
+
 ---
 
 ## <span style="color:pink">2. Skills and Interests</span>
@@ -31,6 +33,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 **T:** Discover my natural skills and interests  
 **A:** Took the quiz and evaluated past achievements and tasks I enjoy  
 **R:** I realized I thrive in creative and hands-on environments, and I’m more confident when choosing roles that match those strengths
+![Skills and Interests](./Skills%20and%20Interests.png)
 
 ---
 
