@@ -74,7 +74,7 @@ Welcome to my digital portfolio for the Work Readiness Training. This repository
 ### Evidence
 - I submitted my CV through the official platform (Blackboard) as required
 
-![CV Submission](./CV%20submission.png)
+[Click to View CV Submission](./CV%20submission.png)
 
 ### Reflection (STAR)
 **S:** I needed to ensure my CV met industry standards  
